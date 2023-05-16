@@ -14,4 +14,4 @@ with slides.Presentation() as pres:
     # Do some work on the newly added slide
 
     # Save the PPTX file to the Disk
-    pres.save("PPTs/presentation.ppt", slides.export.SaveFormat.PPTX)
+    pres.save("presentation.ppt", slides.export.SaveFormat.PPTX)

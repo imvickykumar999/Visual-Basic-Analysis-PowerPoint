@@ -9,4 +9,4 @@ with slides.Presentation() as presentation:
     slide = presentation.slides[0]
     
     # Save the presentation
-    presentation.save("PPTs/presentation.ppt", slides.export.SaveFormat.PPTX)
+    presentation.save("presentation.ppt", slides.export.SaveFormat.PPTX)
