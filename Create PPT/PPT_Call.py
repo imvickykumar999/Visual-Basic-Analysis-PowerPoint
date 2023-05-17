@@ -1,4 +1,6 @@
 
+# https://platform.openai.com/account/api-keys
+
 import openai, os
 import PPT_Fun as ppt
 
@@ -43,7 +45,7 @@ def create_ppt():
 
 def make_slides(
         topic = "save water",
-        API_Key = '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',
+        API_Key = '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',
     ):
     
     openai.api_key = API_Key
@@ -56,5 +58,5 @@ def make_slides(
                     
     return article
 
-# print(make_slides(title))
+print(make_slides(title))
 create_ppt()
