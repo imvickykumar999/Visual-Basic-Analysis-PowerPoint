@@ -1,4 +1,4 @@
 ># `Visual Basic Analysis PowerPoint`
 >
->![image](https://github.com/imvickykumar999/Visual-Basic-Analysis-PowerPoint/assets/50515418/ffe014e6-d783-4a3c-9f11-8cb2a1c40ce7)
+>![image](https://github.com/imvickykumar999/Visual-Basic-Analysis-PowerPoint/assets/50515418/f94d47ba-33e7-4d49-a370-67ec1aab7f5b)
 >
